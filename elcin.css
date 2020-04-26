@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+h1
+
+{
+
+font-family: 'Source Sans Pro';
+
+}
+ 
+
+
+     { 
+
+	font-family: 'Source Sans Pro';
+
+     }
+
+
+.kvadrat
+
+
+   {
+
+  width: 750px;
+
+     height: 90vh;
+
+   background-color: white;
+
+        margin: 35px auto;
+
+      border:30px solid #bdc3c7;
+
+  padding: 35px;
+
+      padding-bottom: 55px;
+
+  
+    }
+
+
+
+.tarix
+
+
+ {
+
+color:#3498db;	
+
+   font-weight:360;
+
+         letter-spacing: 4px;
+
+     text-align: center;
+
+  font-family: 'Source Sans Pro';
+
+
+   }
+
+.xett
+
+    { 
+
+  margin-top: 0px;
+    height:40px;
+width: 5px;
+background-color:#bdc3c7;
+    display: inline-block;
+
+     }
+
+.frame
+
+{
+
+
+    width:90%;
+
+	display: inline-block;
+
+
+}
+
